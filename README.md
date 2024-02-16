@@ -1,3 +1,3 @@
 # Week 07
 
-Scikit-Learn and regression modeling
+Scikit-Learn: regression, classification and clustering
